@@ -1,3 +1,3 @@
-# CoFei
+# Khang
 
-A ghost blog theme developed by XFeiF and take a reference at [chen9's blog](http://www.chen9.info/).
+A ghost blog theme take a reference at [chen9's blog](http://www.chen9.info/).
