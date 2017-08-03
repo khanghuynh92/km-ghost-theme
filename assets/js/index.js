@@ -66,6 +66,12 @@ $(document).
 ready(function() {
     function o() {
         $(".shot-svg").toggleClass("switch"), $(".shot-container").toggleClass("switch")
+        if($(".shot-container").hasClass("switch")) {
+          document.getElementById("myAudio").volume = 0.3;
+          document.getElementById("myAudio").play();
+        } else {
+          document.getElementById("myAudio").pause();
+        }
     }
     var n = $(".info-avatar");
     n.on("click", o), console.log("© XFeiF 🙋 2015-" + (new Date).getFullYear())

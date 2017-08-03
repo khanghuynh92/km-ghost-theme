@@ -1811,7 +1811,7 @@ ontent img {
     z-index: 0;
 }
 .shot-container.switch:after, .shot-container.switch:before, .shot-svg {
-    opacity: 1;
+    opacity: 0.5;
 }
 .shot-container:after {
     position: absolute;
@@ -1830,7 +1830,7 @@ ontent img {
     background-size: cover;
 }
 .shot-container.switch {
-    background-image: url(http://x-fei.me/content/images/2016/08/rainday-1.png);
+    background-image: url(http://vunature.com/wp-content/uploads/2016/11/nature-glass-panes-water-drops-rain-cities-window-new-wallpaper-hd-download-1920x1080.jpg);
 }
 .shot-svg.switch {
     opacity: 0;
